@@ -16,7 +16,6 @@ import { WorkflowEventInput } from './dtos/workflow-event-input';
 import {
   ListRuntimeDataResult,
   ListWorkflowsRuntimeParams,
-  RunnableWorkflowData,
   TWorkflowWithRelations,
   WorkflowRuntimeListQueryResult,
 } from './types';
